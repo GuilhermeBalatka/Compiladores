@@ -57,6 +57,6 @@ def menu_tabela_simbolos():
         else:
             print("Opção inválida.")
 
-# Exemplo de execução
+
 if __name__ == "__main__":
     menu_tabela_simbolos()
